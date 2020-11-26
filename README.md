@@ -1,1 +1,1 @@
-<iframe src="https://giphy.com/embed/14uQ3cOFteDaU" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/404-14uQ3cOFteDaU">via GIPHY</a></p>
+<img src="https://github.com/fransiscusrolandamalau/fransiscusrolandamalau/blob/main/ini.gif" width="1000" height="450" />
