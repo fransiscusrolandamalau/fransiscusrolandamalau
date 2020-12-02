@@ -1,1 +1,1 @@
-<img src="https://github.com/fransiscusrolandamalau/fransiscusrolandamalau/blob/main/giphy.gif" width="1000" height="430" />
+![image](https://github.com/fransiscusrolandamalau/fransiscusrolandamalau/blob/master/dino.gif)
